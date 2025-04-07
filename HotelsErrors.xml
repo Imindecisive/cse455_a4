@@ -27,7 +27,7 @@
     <Name>Rise Uptown Hotel</Name>
     <Phone>480-536-8900</Phone>
     <Phone>480-566-6522</Phone>
-    <Address NearestAirport="Sky Harbor" >//4
+    <Address NearestAirport="Sky Harbor">//4
       <Number>33</Number>
       <Street>W University Dr</Street>
       <City>Tempe</City>
@@ -50,7 +50,7 @@
   <Hotel Rating="3.3">
     <Name>Extended Stay America</Name>
     <Phone>602-279-9000</Phone>
-    <Address NearestAirport="Sky Harbor" //4
+    <Address NearestAirport="Sky Harbor">//4
       <Number>217</Number>
       <Street>W Osborn Road</Street>
       <City>Phoenix</City>
