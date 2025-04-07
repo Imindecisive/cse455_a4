@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -15,7 +15,7 @@
   <Hotel Rating="4.0">
     <Name>The Clarendon Hotel and Spa</Name>
     <Phone>602-2527363</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>401</Number>
       <Street>W Clarendon Ave</Street>
       <City>Phoenix</City>
@@ -27,7 +27,7 @@
     <Name>Rise Uptown Hotel</Name>
     <Phone>480-536-8900</Phone>
     <Phone>480-566-6522</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>33</Number>
       <Street>W University Dr</Street>
       <City>Tempe</City>
@@ -38,7 +38,7 @@
   <Hotel Rating="3.8">
     <Name>Hilton Garden Inn Phoenix Midtown</Name>
     <Phone>602-279-9811</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>4000</Number>
       <Street>N Central Ave</Street>
       <City>Phoenix</City>
@@ -49,7 +49,7 @@
   <Hotel Rating="3.3">
     <Name>Extended Stay America</Name>
     <Phone>602-279-9000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>217</Number>
       <Street>W Osborn Road</Street>
       <City>Phoenix</City>
@@ -61,7 +61,7 @@
     <Name>Home2 Suites</Name>
     <Phone>1-877-6HOME02</Phone>
     <Phone>602-277-3150</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>3150</Number>
       <Street>N Central Ave</Street>
       <City>Phoenix</City>
@@ -72,7 +72,7 @@
   <Hotel>
     <Name>Red Roof Inn Phoenix</Name>
     <Phone>602-536-5528</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>4130</Number>
       <Street>N Black Cyn Hwy</Street>
       <City>Phoenix</City>
@@ -83,7 +83,7 @@
   <Hotel Rating="3.2">
     <Name>Fairfield Inn and Suites</Name>
     <Phone>602-716-9900</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2520</Number>
       <Street>N Central Ave</Street>
       <City>Phoenix</City>
@@ -94,7 +94,7 @@
   <Hotel>
     <Name>Sentral Alloy Midtown</Name>
     <Phone>833-584-1129</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>3010</Number>
       <Street>N 2nd St</Street>
       <City>Phoenix</City>
@@ -105,7 +105,7 @@
   <Hotel Rating="2.8">
     <Name>Super 8</Name>
     <Phone>800-956-8193</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>4135</Number>
       <Street>N 27th Ave</Street>
       <City>Phoenix</City>
@@ -116,7 +116,7 @@
   <Hotel Rating="4.8">
     <Name>Hampton Inn Phoenix</Name>
     <Phone>602-956-5221</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2130</Number>
       <Street>E Highland Ave</Street>
       <City>Phoenix</City>
