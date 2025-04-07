@@ -80,7 +80,7 @@
     </Address>
   </Hotel>
   <Hotel Rating="3.2">
-    <Name>Fairfield Inn & Suites</Name>
+    <Name>Fairfield Inn and Suites</Name>
     <Phone>602-716-9900</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>2520</Number>
